@@ -1,0 +1,7 @@
+{
+  "name": "responsi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
